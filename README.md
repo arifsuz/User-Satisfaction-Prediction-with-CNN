@@ -1,7 +1,4 @@
-```markdown
 # User Satisfaction Prediction with CNN
-
-## Project Overview
 
 This project implements a **Convolutional Neural Network (CNN)** to predict user satisfaction based on usability survey data. The main program is provided in `main.ipynb`. The dataset, `Dataset_Quiz.csv`, contains survey results from different user roles (Student, Lecturer), tasks, and academic fields.
 
