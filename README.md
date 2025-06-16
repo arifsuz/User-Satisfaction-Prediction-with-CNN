@@ -21,8 +21,8 @@ Machine Learning/
 
 1. **Clone the Repository**
    ```sh
-   git clone <repository_url>
-   cd "Machine Learning"
+   git clonen https://github.com/arifsuz/User-Satisfaction-Prediction-with-CNN.git
+   cd User-Satisfaction-Prediction-with-CNN
    ```
 
 2. **Create and Activate Virtual Environment (Recommended)**
